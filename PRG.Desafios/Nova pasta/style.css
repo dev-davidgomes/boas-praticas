@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rufina', serif;
+}
+
+/** inicio da header**/
+
+header {
+    background: linear-gradient(180deg, #D2A295 23.96%, #BFD1D9 100%);
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header-tittle {
+    color: #ffff;
+    padding: 8px;
+    font-weight: 700;
+    
+}
+
+
+.header-paragraph {
+    color: #9D7F7F;
+    font-weight: 400;
+    width: 75%;
+}
+
+.header-div-paragraph {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/** fim da header **/
+
+/** inicio da main **/
+
+main {
+    background-color: #BFD1D9;
+    width: 100vw;
+}
+
+.title-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.section-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100vw;
+}
+
+.div-img-relogio {
+    display: flex;
+    width: 10rem;
+    height: 10rem;
+    margin-right: 3rem;
+}
+
+.div-text-1 {
+    width: 20%;
+
+}
+
+.section-2 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.div-img-talheres {
+    display: flex;
+    width: 10rem;
+    height: 10rem;
+    margin-right: 3rem;
+}
+
+.div-text-2 {
+    width: 20%;
+}
+
+.section-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.div-img-circle-withe {
+    background-color: #ffff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 10rem;
+    margin-right: 3rem;
+}
+
+.div-text-3 {
+    width: 20%;
+}
+
+.img-circle-withe {
+    width: 8rem;
+    height: 8rem;
+}
+
+.h3-main {
+    margin-bottom: 1rem;
+}
+
+/** fim da main **/
+
+
+
+   
+    
+    
+
+
+
+
